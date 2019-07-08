@@ -1,0 +1,5 @@
+Instalar anaconda en la raspbian.Fijarse bitaje del procesador.
+Instalar matplotlib con 
+
+sudo apt-get install python3-matplotlib
+
